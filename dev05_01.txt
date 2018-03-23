@@ -1,2 +1,2 @@
 if a==1 then awawawaw else afdate
-p a
+put a
