@@ -3,5 +3,5 @@ aa
 bbbbb
 
 
-hoge=1
-hoge=2
+hoge=4
+hoge=8
