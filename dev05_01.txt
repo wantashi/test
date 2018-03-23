@@ -5,3 +5,7 @@ a..9
 
 fetch
 
+
+class aaaa {
+ hogehoge
+}
