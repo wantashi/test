@@ -1,2 +1,7 @@
 if a==1 then awawawaw else afdate
 put a
+
+a..9
+
+fetch
+
