@@ -5,3 +5,10 @@ a..9
 
 fetch
 
+
+class aaaa {
+ function hogehoge wanwan {
+ return;
+ }
+ 
+}
